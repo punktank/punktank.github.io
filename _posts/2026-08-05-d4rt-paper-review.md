@@ -17,5 +17,5 @@ print("코드 블록도 됩니다")
 
 # COLMAP(Collection Mapper)
 
-## Feature extraction \arrow Feature matching \arrow Geometric verification \arrow Incremental reconstruction
+## Feature extraction \to Feature matching \rigtharrow Geometric verification \to Incremental reconstruction
 
