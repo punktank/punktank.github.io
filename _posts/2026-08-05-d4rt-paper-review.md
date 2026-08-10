@@ -1,4 +1,4 @@
----
+--
 title: D4RT 논문 리뷰
 date: 2026-08-04 21:00:00 +0900
 categories: [Paper Review, 3D Vision]
@@ -13,3 +13,9 @@ math: true
 ```python
 print("코드 블록도 됩니다")
 ```
+
+
+# COLMAP(Collection Mapper)
+
+## Feature extraction \arrow Feature matching \arrow Geometric verification \arrow Incremental reconstruction
+
